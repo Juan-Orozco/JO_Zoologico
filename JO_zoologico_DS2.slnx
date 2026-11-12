@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/1.Dominio/">
+    <Project Path="Lib_Dominio/Lib_Dominio.csproj" />
+  </Folder>
+  <Folder Name="/2. Servicio/">
+    <Project Path="api_zoo/api_zoo.csproj" />
+    <Project Path="lib_Zoo/lib_Zoo.csproj" />
+  </Folder>
+  <Folder Name="/3. Aplicacion/">
+    <Project Path="JO_ASP_presetnacionBack/JO_ASP_presetnacionBack.csproj" Id="3e977989-4b1d-4f97-86e3-0efd1246816f" />
+    <Project Path="JO_lib_presentazionZoo/JO_lib_presentazionZoo.csproj" Id="f17453d7-57c3-4cde-afdf-871c379f823e" />
+  </Folder>
+</Solution>
